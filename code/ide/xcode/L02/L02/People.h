@@ -11,4 +11,9 @@
 
 #include <stdio.h>
 
+class People {
+public:
+    void sayHello();
+};
+
 #endif /* defined(__L02__People__) */

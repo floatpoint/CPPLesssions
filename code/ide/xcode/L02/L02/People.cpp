@@ -7,3 +7,7 @@
 //
 
 #include "People.h"
+
+void People::sayHello() {
+    printf("hello cpp\n");
+}
