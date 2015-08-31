@@ -1,6 +1,6 @@
 //
 //  People.h
-//  L02
+//  L02 修改再一下
 //
 //  Created by jeans on 15-8-31.
 //  Copyright (c) 2015年 jeans. All rights reserved.
